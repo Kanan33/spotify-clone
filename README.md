@@ -33,7 +33,7 @@ This project replicates the look and feel of Spotify's web player for learning a
 ## 📬 Contact
 If you have any feedback, suggestions, or questions, feel free to reach out:  
 
-- **GitHub**: [Kanan33](https://github.com/Kanan33) 
+- **GitHub**: [Kanan Preet Kaur](https://github.com/kanan-preet-kaur) 
 - **LinkedIn**: [Kanan Preet Kaur](https://www.linkedin.com/in/kanan-preet-kaur-a46707332/)
 
 ## ⚠️ Disclaimer
