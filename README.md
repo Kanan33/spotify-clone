@@ -34,7 +34,7 @@ This project replicates the look and feel of Spotify's web player for learning a
 If you have any feedback, suggestions, or questions, feel free to reach out:  
 
 - **GitHub**: [Kanan Preet Kaur](https://github.com/kanan-preet-kaur) 
-- **LinkedIn**: [Kanan Preet Kaur](https://www.linkedin.com/in/kanan-preet-kaur-a46707332/)
+- **LinkedIn**: [Kanan Preet Kaur](https://www.linkedin.com/in/kanan-preet-kaur/)
 
 ## ⚠️ Disclaimer
 This project is created solely for educational purposes and is not affiliated with or endorsed by Spotify.  
